@@ -29,5 +29,9 @@
         "psr-0": {
             "Jaguar": "src/"
         }
+    },
+    "require-dev": {
+        "codeclimate/php-test-reporter": "dev-master",
+        "phpunit/phpunit": "4.2.*"
     }
 }
